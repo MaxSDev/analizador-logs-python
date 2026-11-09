@@ -1,0 +1,10 @@
+[INFO] 2025-02-28 Inicio de sesión correcto
+[WARNING] Intento de contraseña inválida
+[ERROR] 2025-02-30 Fallo de conexión
+[DEBUG] 2025-03-01 Diagnóstico interno
+[INFO] 2025-03-02
+
+[ERROR] 2025-03-03 Servicio no disponible
+[WARNING] 2025-13-01 Acceso sospechoso
+ERROR 2025-03-04 Error sin corchetes
+[INFO] 2025-03-05 Nuevo inicio de sesión

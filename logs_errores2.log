@@ -1,0 +1,16 @@
+[INFO] 2024-02-29 Fecha bisiesta válida
+[ERROR] 2025-02-29 Fecha inexistente
+[WARNING] 2025-13-01 Mes inexistente
+[INFO] 2025-04-31 Abril no tiene 31 días
+[ERROR] 2025-06-10 25:61:61 Hora inexistente
+[DEBUG] 2025-06-10 Nivel no admitido
+ERROR 2025-06-10 Faltan corchetes en severidad
+[INFO] Mensaje sin fecha
+[WARNING] 2025-06-10
+
+2025-06-10 El usuario escribió [ERROR] en un comentario
+[INFO] 2025-06-10 Registro correcto
+[ERROR] 2025-06-10 10:20:30 Error con hora válida
+[INFO] 2025-06-10T10:20:30 Formato ISO con T no admitido
+[WARNING] 2025-06-10 Detalle adicional [ERROR] dentro del mensaje
+[ERROR] 2025-06-10

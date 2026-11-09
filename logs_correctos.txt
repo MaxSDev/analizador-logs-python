@@ -1,0 +1,5 @@
+[INFO] 2025-01-10 Usuario inició sesión correctamente
+[WARNING] 2025-01-10 Intento de contraseña incorrecta
+[ERROR] 2025-01-11 No fue posible conectar con la base de datos
+[INFO] 2025-01-11 Usuario cerró sesión
+[INFO] 2025-01-12 Servicio iniciado correctamente

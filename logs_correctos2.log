@@ -1,0 +1,10 @@
+[INFO] 2024-02-29 Inicio de sesión válido en año bisiesto
+[WARNING] 2025-01-01 00:00:00 Intento de acceso a medianoche
+[ERROR] 2025-12-31 23:59:59 Conexión interrumpida al finalizar el año
+   [INFO] 2025-03-05 Usuario inició sesión con espacios al inicio   
+[INFO]	2025-04-06	Usuario inició sesión con tabulaciones
+[WARNING] 2025-05-07 Contraseña inválida: caracteres ñ, á y símbolo #
+[ERROR] 2025-06-08 El mensaje contiene [INFO] como texto, no como otro evento
+[INFO] 2025-07-09 12:15:30 Respuesta recibida: 200 OK
+[WARNING] 2024-12-31 18:23:45 Servicio a punto de reiniciarse
+[ERROR] 2026-01-01 Fallo de servicio tras reinicio
