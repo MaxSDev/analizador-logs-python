@@ -1,8 +1,11 @@
 # Analizador de logs en Python
 
 **Actividad individual: IA como herramienta, no como autor**  
+
 **Módulo:** IA-first mindset
+
 **Alumno:** Max Gabriel Sánchez Flores
+
 **Coach:** Ronald Mejía
 
 ## 1. Descripción y objetivo
